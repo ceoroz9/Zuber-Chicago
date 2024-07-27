@@ -1,5 +1,5 @@
 # Zuber-Chicago
-
+SQL, Python
 ## Descripción del proyecto
 
 Estoy trabajando como analista para Zuber, una nueva empresa de viajes compartidos que se está lanzando en Chicago. Mi tarea es encontrar patrones en la información disponible. Quiero comprender las preferencias de los pasajeros y el impacto de los factores externos en los viajes.
